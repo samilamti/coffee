@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Coffe",
+    "description": "",
+    "home_page_url": "https://samilamti.github.io/coffee",
+    "feed_url": "https://samilamti.github.io/coffee/feed.json",
+    "user_comment": "",
+    "icon": "https://samilamti.github.io/coffee/media/website/Practical-WebAssembly-2.png",
+    "author": {
+        "name": "Sami"
+    },
+    "items": [
+        {
+            "id": "https://samilamti.github.io/coffee/coffee-is-good.html",
+            "url": "https://samilamti.github.io/coffee/coffee-is-good.html",
+            "title": "Coffee is good",
+            "summary": "I like coffee. But I like saying that I like coffee more than I actually like coffee. It's kind of similar to my relationship with bacon. Everything's better with bacon... even bacon. Even so, I say that I like bacon way more than I actually like bacon.",
+            "content_html": "<p>I like coffee. But I like saying that I like coffee more than I actually <em>like</em> coffee. It's kind of similar to my relationship with bacon. Everything's better with bacon... even bacon. Even so, I <em>say</em> that I like bacon <em>way more</em> than I actually <em>like</em> bacon.</p>\n<figure ><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://samilamti.github.io/coffee/media/posts/1/coffee-2.jfif\" alt=\"Delicious coffee\" width=\"200\" height=\"150\"></figure>\n<figcaption >Delicious coffee</figcaption>\n</figure>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width: 49.9288%;\">Coffee</td>\n<td style=\"width: 49.9288%;\">Is good</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+            "author": {
+                "name": "Sami"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-23T21:12:09+01:00",
+            "date_modified": "2022-07-23T21:12:09+01:00"
+        }
+    ]
+}

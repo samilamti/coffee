@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://samilamti.github.io/coffee/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://samilamti.github.io/coffee/</loc>
+</url>
+<url>
+<loc>https://samilamti.github.io/coffee/coffee-is-good.html</loc>
+<lastmod>2022-07-23T21:12:09+01:00</lastmod>
+<image:image>
+<image:loc>https://samilamti.github.io/coffee/media\posts\1/coffee-2.jfif</image:loc>
+<image:title><![CDATA[Delicious coffee]]></image:title>
+</image:image>
+</url>
+</urlset>

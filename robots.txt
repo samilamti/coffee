@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://samilamti.github.io/coffee/sitemap.xml

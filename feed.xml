@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Coffe</title>
+    <link href="https://samilamti.github.io/coffee/feed.xml" rel="self" />
+    <link href="https://samilamti.github.io/coffee" />
+    <updated>2022-07-23T21:12:09+01:00</updated>
+    <author>
+        <name>Sami</name>
+    </author>
+    <id>https://samilamti.github.io/coffee</id>
+
+    <entry>
+        <title>Coffee is good</title>
+        <author>
+            <name>Sami</name>
+        </author>
+        <link href="https://samilamti.github.io/coffee/coffee-is-good.html"/>
+        <id>https://samilamti.github.io/coffee/coffee-is-good.html</id>
+
+        <updated>2022-07-23T21:12:09+01:00</updated>
+            <summary>
+                <![CDATA[
+                    I like coffee. But I like saying that I like coffee more than I actually like coffee. It's kind of similar to my relationship with bacon. Everything's better with bacon... even bacon. Even so, I say that I like bacon way more than I actually like bacon.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>I like coffee. But I like saying that I like coffee more than I actually <em>like</em> coffee. It's kind of similar to my relationship with bacon. Everything's better with bacon... even bacon. Even so, I <em>say</em> that I like bacon <em>way more</em> than I actually <em>like</em> bacon.</p>
+<figure ><figure class="post__image post__image--center"><img loading="lazy"  src="https://samilamti.github.io/coffee/media/posts/1/coffee-2.jfif" alt="Delicious coffee" width="200" height="150"></figure>
+<figcaption >Delicious coffee</figcaption>
+</figure>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 49.9288%;">Coffee</td>
+<td style="width: 49.9288%;">Is good</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
